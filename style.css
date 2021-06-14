@@ -55,6 +55,14 @@
   .hero__image {
     width: 100%;
   }
+
+  </*.hero_image_shape{
+      position: absolute;
+      transition: 0.5s;
+      z-index: -3;*/
+
+
+  }
   
   .hero__text {
     font-size: 30px;
@@ -227,3 +235,26 @@
       max-width: 1250px;
     }
   }
+
+  /* Email Seaction*/
+
+  .contact_email{
+      margin: 70px;
+  }
+
+  .head_email{
+    font-size: 50px;
+    color: #1d3557;
+    margin: 20 0;
+    text-align: center;
+
+  }
+
+  #email_contact_email{
+      padding: 10px;
+      width; 4em;
+  }
+
+  .contact_email{
+      justify-content: center;
+      gap: 5;
